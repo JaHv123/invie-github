@@ -1,2 +1,2 @@
 # invie-github
-Ejemplo de curso Platzi
+Ejemplo de curso Platzi - Tus mejores guitarras
